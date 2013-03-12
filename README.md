@@ -1,5 +1,9 @@
 # Go (golang) Bindings for 0mq (zmq, zeromq)
 
+> ZeroMQ，史上最快的消息队列 
+>
+> [http://news.cnblogs.com/n/154000/](http://news.cnblogs.com/n/154000/)
+
 This package implements [Go](http://golang.org) (golang) bindings for
 the [0mq](http://zeromq.org) C API.
 
